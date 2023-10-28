@@ -15,5 +15,4 @@ Le formattage du code est effectué grâce à l'extension codehighlighter2.
 Toute aide est la bienvenue.
 
 Si le sujet vous intéresse,
-[passez nous dire bonjour sur le forum]
-(https://scsynth.org/t/supercollider-en-francais/8308) !
+[passez nous dire bonjour sur le forum](https://scsynth.org/t/supercollider-en-francais/8308) !
