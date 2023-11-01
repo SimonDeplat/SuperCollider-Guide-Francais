@@ -37,7 +37,7 @@ Si le sujet vous intéresse,
 
 ### À faire
 
-- Intégrer les ressources externes mentionénes sur le fil du forum
+- Intégrer les ressources externes mentionnées sur le fil du forum
 
 - notions d'échantillonnage, distinction ar / kr
 
