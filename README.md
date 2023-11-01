@@ -7,6 +7,8 @@ puis sur le bouton téléchargement en haut à droite du fichier.
 
 ### Notes
 
+Version 0.2.0
+
 Ce guide est en cours de rédaction et n'est donc pas terminé.
 
 Il contient cependant assez d'éléments pour bien démarrer.
