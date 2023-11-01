@@ -5,14 +5,21 @@ Un guide d'utilisation de SuperCollider à destination des novices, rédigé en 
 Pour le télécharger, cliquez sur le fichier *SC_FR.pdf* ci-dessus,
 puis sur le bouton téléchargement en haut à droite du fichier.
 
-### Notes
+### À propos
 
-Version 0.2.0
+Un guide pas-à-pas qui documente les bases de SuperCollider :
 
-Ce guide est en cours de rédaction et n'est donc pas terminé.
+- la distinction serveur / langage / éditeur
 
-Il contient cependant assez d'éléments pour bien démarrer.
+- l’interface de l’éditeur, l’utilisation des espaces et les raccourcis claviers
 
+- la construction de SynthDef et la création des synthés associés
+
+- les bases de la POO dans le cadre de SuperCollider
+
+- la méthodologie de recherche de documentation sur les composants du langage
+
+Version 1.0.0
 
 ### Structure
 
@@ -30,11 +37,9 @@ Si le sujet vous intéresse,
 
 ### À faire
 
-- terminer la section pas-à-pas
+- Intégrer les ressources externes mentionénes sur le fil du forum
 
-- Intégrer les ressources externes du fil du forum
-
-- proposer une structure ordonnée en sous-parties
+- notions d'échantillonnage, distinction ar / kr
 
 - tuto Enveloppe
 
@@ -51,3 +56,7 @@ Si le sujet vous intéresse,
 - tuto QT
 
 - tuto de rédaction de Classes
+
+- tuto Jack (?)
+
+- proposer une structure ordonnée en sous-parties (quand nécessaire)
