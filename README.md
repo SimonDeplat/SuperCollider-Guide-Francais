@@ -2,7 +2,7 @@
 
 Un guide d'utilisation de SuperCollider à destination des novices, rédigé en français.
 
-Pour le téléchargez, cliquez sur le fichier *SC_FR.pdf* ci-dessus,
+Pour le télécharger, cliquez sur le fichier *SC_FR.pdf* ci-dessus,
 puis sur le bouton téléchargement en haut à droite du fichier.
 
 ### Notes
